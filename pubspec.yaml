@@ -54,6 +54,7 @@ dependencies:
   riverpod:
   share_plus:
   get:
+  smooth_page_indicator:
 
 dev_dependencies:
   flutter_test:
